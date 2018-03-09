@@ -1,7 +1,7 @@
-Make cocktail page: add home button to top right.
-Make home button.
+[+] Make cocktail page: add home button to top right.
+[+] Make home button.
 Make random works.
-Add icons where it possible?
+[n/a] Add icons where it possible?
 Test on bigger screen.
 Read and memorize about SSR. Other SSR frameworks?
 Create demo plan.

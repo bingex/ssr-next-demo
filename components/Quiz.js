@@ -34,13 +34,15 @@ const Quiz = () => (
         margin: 0 20px;
         cursor: pointer;
         border: none;
-        box-shadow: 0 0 0 transparent inset;
-        transition: 0.2s;
+        color: #31313c;
+        box-shadow: 0 0 0 transparent;
+        transition: all 0.3s;
         text-transform: lowercase;
         outline: none;
       }
       .start-type:hover {
-        box-shadow: inset 0px 0px 20px 10px rgba(255, 255, 255, 0.8);
+        box-shadow: 0px 0px 20px 10px rgba(255, 255, 255, 0.8);
+        color: #f4f4f4;
       }
       .start-type--alcoholic {
         background: #3ad4c3;
