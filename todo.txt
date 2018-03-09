@@ -1,0 +1,9 @@
+Make cocktail page: add home button to top right.
+Make home button.
+Make random works.
+Add icons where it possible?
+Test on bigger screen.
+Read and memorize about SSR. Other SSR frameworks?
+Create demo plan.
+Create About page.
+Add favicon.
