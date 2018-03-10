@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
+    "postinstall": "npm install express",
     "start": "NODE_ENV=production node server.js"
   },
   "keywords": [],

@@ -7,4 +7,4 @@ Read and memorize about SSR. Other SSR frameworks?
 Create demo plan.
 [+] Create About page.
 [+] Add favicon.
-[n/a] Production deploy.
+[+] Production deploy.
