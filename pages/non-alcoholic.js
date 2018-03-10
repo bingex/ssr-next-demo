@@ -8,7 +8,7 @@ const Alcoholic = props => (
   <div>
     <Header />
     <Grid cocktails={props.cocktails} />
-    <RandomButton />
+    <RandomButton cocktails={props.cocktails} />
   </div>
 );
 
