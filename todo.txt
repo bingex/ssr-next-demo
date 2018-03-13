@@ -3,8 +3,8 @@
 [+] Make random works.
 [n/a] Add icons where it possible?
 Test on bigger screen.
-Read and memorize about SSR. Other SSR frameworks?
-Create demo plan.
+[+] Read and memorize about SSR. Other SSR frameworks?
+[+] Create demo plan.
 [+] Create About page.
 [+] Add favicon.
 [+] Production deploy.

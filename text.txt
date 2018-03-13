@@ -1,0 +1,12 @@
+Client side rendering — Normally when using React, your browser will download a minimal HTML page, and the content will be filled in by JavaScript.
+With Server side rendering, the initial content is generated on the server, so your browser can download a page with HTML content already in place. Updates to the content are still handled in the browser.
+
+Накращим рішенням для сервер сайд рендеригну зараз є Next.js для React та Nuxt.js для Vue. More than 24k GitHub start and such GIGANTES like Github, NPM, Docket support are using Next.js
+
+Переваги Next.js:
+1. Simplicity, easy of use - досить легкий шлях від сетапу до продакшин депрою. Як ми знаємо зараз у фронтенд розробці багато часу займає саме сетап проекту. Можна забути про webpack, react-router, react, react-dom - це включено з коробки. Show structure.
+2. Performance for page first load, because page renders on server and return ready html with css. Show first load page.
+3. Improved SEO, because of page loads on the server we have access to head and can change titles. Show first load page.
+4. Code splitting out of the box, because of nice web pack config inside Next.js. Show network.
+5. Javascript everywhere.
+6. Support styled-jsx in 4 version and sass, less, css modules in last 5 version. Show code.
